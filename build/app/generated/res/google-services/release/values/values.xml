@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">525888592619</string>
+    <string name="google_api_key" translatable="false">AIzaSyDuDxriw8CH8NbVLiXtKFQ2Nb64AoRSdyg</string>
+    <string name="google_app_id" translatable="false">1:525888592619:android:7f6a25ba36fae20b867cae</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDuDxriw8CH8NbVLiXtKFQ2Nb64AoRSdyg</string>
+    <string name="google_storage_bucket" translatable="false">flutter-uber-clone-with-admin.appspot.com</string>
+    <string name="project_id" translatable="false">flutter-uber-clone-with-admin</string>
+</resources>

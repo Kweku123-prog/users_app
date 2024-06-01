@@ -1,0 +1,17 @@
+io.flutter.plugins.googlemaps.google_maps_flutter_android-jetified-play-services-base-18.0.1-0 C:\Users\kcqua\.gradle\caches\transforms-3\073f1af8ba526b0b6d55b8e83de05ad9\transformed\jetified-play-services-base-18.0.1\res
+io.flutter.plugins.googlemaps.google_maps_flutter_android-jetified-android-maps-utils-3.6.0-1 C:\Users\kcqua\.gradle\caches\transforms-3\1933e2599089c5fcf1b8ead606fa3f86\transformed\jetified-android-maps-utils-3.6.0\res
+io.flutter.plugins.googlemaps.google_maps_flutter_android-jetified-window-java-1.0.0-beta04-2 C:\Users\kcqua\.gradle\caches\transforms-3\3fa672cdda2ac8dbbe73d728e9d4476c\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.googlemaps.google_maps_flutter_android-jetified-annotation-experimental-1.1.0-3 C:\Users\kcqua\.gradle\caches\transforms-3\a6ea3634d38c9b1e1d5e7611445d8058\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.googlemaps.google_maps_flutter_android-core-1.6.0-4 C:\Users\kcqua\.gradle\caches\transforms-3\d76f6371f67794e7cd6ed451d2aca8b6\transformed\core-1.6.0\res
+io.flutter.plugins.googlemaps.google_maps_flutter_android-jetified-play-services-basement-18.0.0-5 C:\Users\kcqua\.gradle\caches\transforms-3\d85ad1247f74f0af6fef70667bc1a110\transformed\jetified-play-services-basement-18.0.0\res
+io.flutter.plugins.googlemaps.google_maps_flutter_android-jetified-play-services-maps-18.2.0-6 C:\Users\kcqua\.gradle\caches\transforms-3\e0ed4e7bfcba98f4843b6694f7713175\transformed\jetified-play-services-maps-18.2.0\res
+io.flutter.plugins.googlemaps.google_maps_flutter_android-jetified-window-1.0.0-beta04-7 C:\Users\kcqua\.gradle\caches\transforms-3\e177dd80db155626c0435613303c3ab0\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.googlemaps.google_maps_flutter_android-main-8 C:\Users\kcqua\AppData\Local\Pub\Cache\hosted\pub.dev\google_maps_flutter_android-2.8.0\android\src\main\res
+io.flutter.plugins.googlemaps.google_maps_flutter_android-release-9 C:\Users\kcqua\AppData\Local\Pub\Cache\hosted\pub.dev\google_maps_flutter_android-2.8.0\android\src\release\res
+io.flutter.plugins.googlemaps.google_maps_flutter_android-packaged_res-10 C:\Users\kcqua\Downloads\apps\users_app\build\flutter_plugin_android_lifecycle\intermediates\packaged_res\release
+io.flutter.plugins.googlemaps.google_maps_flutter_android-pngs-11 C:\Users\kcqua\Downloads\apps\users_app\build\google_maps_flutter_android\generated\res\pngs\release
+io.flutter.plugins.googlemaps.google_maps_flutter_android-resValues-12 C:\Users\kcqua\Downloads\apps\users_app\build\google_maps_flutter_android\generated\res\resValues\release
+io.flutter.plugins.googlemaps.google_maps_flutter_android-rs-13 C:\Users\kcqua\Downloads\apps\users_app\build\google_maps_flutter_android\generated\res\rs\release
+io.flutter.plugins.googlemaps.google_maps_flutter_android-mergeReleaseResources-14 C:\Users\kcqua\Downloads\apps\users_app\build\google_maps_flutter_android\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.googlemaps.google_maps_flutter_android-mergeReleaseResources-15 C:\Users\kcqua\Downloads\apps\users_app\build\google_maps_flutter_android\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.googlemaps.google_maps_flutter_android-merged_res-16 C:\Users\kcqua\Downloads\apps\users_app\build\google_maps_flutter_android\intermediates\merged_res\release

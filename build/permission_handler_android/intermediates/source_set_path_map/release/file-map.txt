@@ -1,0 +1,12 @@
+com.baseflow.permissionhandler.permission_handler_android-jetified-window-java-1.0.0-beta04-0 C:\Users\kcqua\.gradle\caches\transforms-3\3fa672cdda2ac8dbbe73d728e9d4476c\transformed\jetified-window-java-1.0.0-beta04\res
+com.baseflow.permissionhandler.permission_handler_android-jetified-annotation-experimental-1.1.0-1 C:\Users\kcqua\.gradle\caches\transforms-3\a6ea3634d38c9b1e1d5e7611445d8058\transformed\jetified-annotation-experimental-1.1.0\res
+com.baseflow.permissionhandler.permission_handler_android-core-1.6.0-2 C:\Users\kcqua\.gradle\caches\transforms-3\d76f6371f67794e7cd6ed451d2aca8b6\transformed\core-1.6.0\res
+com.baseflow.permissionhandler.permission_handler_android-jetified-window-1.0.0-beta04-3 C:\Users\kcqua\.gradle\caches\transforms-3\e177dd80db155626c0435613303c3ab0\transformed\jetified-window-1.0.0-beta04\res
+com.baseflow.permissionhandler.permission_handler_android-main-4 C:\Users\kcqua\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_android-12.0.6\android\src\main\res
+com.baseflow.permissionhandler.permission_handler_android-release-5 C:\Users\kcqua\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_android-12.0.6\android\src\release\res
+com.baseflow.permissionhandler.permission_handler_android-pngs-6 C:\Users\kcqua\Downloads\apps\users_app\build\permission_handler_android\generated\res\pngs\release
+com.baseflow.permissionhandler.permission_handler_android-resValues-7 C:\Users\kcqua\Downloads\apps\users_app\build\permission_handler_android\generated\res\resValues\release
+com.baseflow.permissionhandler.permission_handler_android-rs-8 C:\Users\kcqua\Downloads\apps\users_app\build\permission_handler_android\generated\res\rs\release
+com.baseflow.permissionhandler.permission_handler_android-mergeReleaseResources-9 C:\Users\kcqua\Downloads\apps\users_app\build\permission_handler_android\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.baseflow.permissionhandler.permission_handler_android-mergeReleaseResources-10 C:\Users\kcqua\Downloads\apps\users_app\build\permission_handler_android\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.baseflow.permissionhandler.permission_handler_android-merged_res-11 C:\Users\kcqua\Downloads\apps\users_app\build\permission_handler_android\intermediates\merged_res\release

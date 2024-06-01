@@ -1,0 +1,17 @@
+in.appyflow.geofire.flutter_geofire-jetified-window-java-1.0.0-beta04-0 C:\Users\kcqua\.gradle\caches\transforms-3\3fa672cdda2ac8dbbe73d728e9d4476c\transformed\jetified-window-java-1.0.0-beta04\res
+in.appyflow.geofire.flutter_geofire-jetified-play-services-basement-16.1.0-1 C:\Users\kcqua\.gradle\caches\transforms-3\4c9eec4af67e3068c87d2d7fda29d24e\transformed\jetified-play-services-basement-16.1.0\res
+in.appyflow.geofire.flutter_geofire-coordinatorlayout-1.0.0-2 C:\Users\kcqua\.gradle\caches\transforms-3\731e92db87cfbf040359665c5a9108b1\transformed\coordinatorlayout-1.0.0\res
+in.appyflow.geofire.flutter_geofire-jetified-geofire-android-3.1.0-3 C:\Users\kcqua\.gradle\caches\transforms-3\7e938e090bd50ab1073b9bbffe56bc36\transformed\jetified-geofire-android-3.1.0\res
+in.appyflow.geofire.flutter_geofire-jetified-annotation-experimental-1.1.0-4 C:\Users\kcqua\.gradle\caches\transforms-3\a6ea3634d38c9b1e1d5e7611445d8058\transformed\jetified-annotation-experimental-1.1.0\res
+in.appyflow.geofire.flutter_geofire-core-1.6.0-5 C:\Users\kcqua\.gradle\caches\transforms-3\d76f6371f67794e7cd6ed451d2aca8b6\transformed\core-1.6.0\res
+in.appyflow.geofire.flutter_geofire-jetified-play-services-base-16.0.1-6 C:\Users\kcqua\.gradle\caches\transforms-3\dcc45e57666fd748eb4a1472b6afadc1\transformed\jetified-play-services-base-16.0.1\res
+in.appyflow.geofire.flutter_geofire-media-1.0.0-7 C:\Users\kcqua\.gradle\caches\transforms-3\de1409bd84aa575bd7a79b83a0ebd478\transformed\media-1.0.0\res
+in.appyflow.geofire.flutter_geofire-jetified-window-1.0.0-beta04-8 C:\Users\kcqua\.gradle\caches\transforms-3\e177dd80db155626c0435613303c3ab0\transformed\jetified-window-1.0.0-beta04\res
+in.appyflow.geofire.flutter_geofire-main-9 C:\Users\kcqua\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_geofire-2.0.3\android\src\main\res
+in.appyflow.geofire.flutter_geofire-release-10 C:\Users\kcqua\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_geofire-2.0.3\android\src\release\res
+in.appyflow.geofire.flutter_geofire-pngs-11 C:\Users\kcqua\Downloads\apps\users_app\build\flutter_geofire\generated\res\pngs\release
+in.appyflow.geofire.flutter_geofire-resValues-12 C:\Users\kcqua\Downloads\apps\users_app\build\flutter_geofire\generated\res\resValues\release
+in.appyflow.geofire.flutter_geofire-rs-13 C:\Users\kcqua\Downloads\apps\users_app\build\flutter_geofire\generated\res\rs\release
+in.appyflow.geofire.flutter_geofire-mergeReleaseResources-14 C:\Users\kcqua\Downloads\apps\users_app\build\flutter_geofire\intermediates\incremental\release\mergeReleaseResources\merged.dir
+in.appyflow.geofire.flutter_geofire-mergeReleaseResources-15 C:\Users\kcqua\Downloads\apps\users_app\build\flutter_geofire\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+in.appyflow.geofire.flutter_geofire-merged_res-16 C:\Users\kcqua\Downloads\apps\users_app\build\flutter_geofire\intermediates\merged_res\release

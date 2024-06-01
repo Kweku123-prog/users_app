@@ -1,0 +1,4 @@
+#Wed May 29 16:04:44 GMT 2024
+base.0=C\:\\Users\\kcqua\\Downloads\\apps\\users_app\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

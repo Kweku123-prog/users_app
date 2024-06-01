@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "in.appyflow.geofire.flutter_geofire-merged_res-15:/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "in.appyflow.geofire.flutter_geofire-jetified-play-services-base-16.0.1-6:/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "in.appyflow.geofire.flutter_geofire-merged_res-15:/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "in.appyflow.geofire.flutter_geofire-jetified-play-services-base-16.0.1-6:/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "in.appyflow.geofire.flutter_geofire-merged_res-15:/drawable/common_google_signin_btn_icon_dark_normal.xml",
+        "source": "in.appyflow.geofire.flutter_geofire-jetified-play-services-base-16.0.1-6:/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "in.appyflow.geofire.flutter_geofire-merged_res-15:/drawable/notification_tile_bg.xml",
+        "source": "in.appyflow.geofire.flutter_geofire-core-1.6.0-5:/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "in.appyflow.geofire.flutter_geofire-merged_res-15:/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "in.appyflow.geofire.flutter_geofire-jetified-play-services-base-16.0.1-6:/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "in.appyflow.geofire.flutter_geofire-merged_res-15:/drawable/common_google_signin_btn_text_light.xml",
+        "source": "in.appyflow.geofire.flutter_geofire-jetified-play-services-base-16.0.1-6:/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "in.appyflow.geofire.flutter_geofire-merged_res-15:/drawable/common_google_signin_btn_text_light_normal.xml",
+        "source": "in.appyflow.geofire.flutter_geofire-jetified-play-services-base-16.0.1-6:/drawable/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "in.appyflow.geofire.flutter_geofire-merged_res-15:/drawable/notification_bg_low.xml",
+        "source": "in.appyflow.geofire.flutter_geofire-core-1.6.0-5:/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "in.appyflow.geofire.flutter_geofire-merged_res-15:/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "in.appyflow.geofire.flutter_geofire-jetified-play-services-base-16.0.1-6:/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "in.appyflow.geofire.flutter_geofire-merged_res-15:/drawable/common_google_signin_btn_text_disabled.xml",
+        "source": "in.appyflow.geofire.flutter_geofire-jetified-play-services-base-16.0.1-6:/drawable/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "in.appyflow.geofire.flutter_geofire-merged_res-15:/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "in.appyflow.geofire.flutter_geofire-jetified-play-services-base-16.0.1-6:/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "in.appyflow.geofire.flutter_geofire-merged_res-15:/drawable/notification_icon_background.xml",
+        "source": "in.appyflow.geofire.flutter_geofire-core-1.6.0-5:/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "in.appyflow.geofire.flutter_geofire-merged_res-15:/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "in.appyflow.geofire.flutter_geofire-jetified-play-services-base-16.0.1-6:/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "in.appyflow.geofire.flutter_geofire-merged_res-15:/drawable/common_google_signin_btn_text_dark_normal.xml",
+        "source": "in.appyflow.geofire.flutter_geofire-jetified-play-services-base-16.0.1-6:/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "in.appyflow.geofire.flutter_geofire-merged_res-15:/drawable/notification_bg.xml",
+        "source": "in.appyflow.geofire.flutter_geofire-core-1.6.0-5:/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "in.appyflow.geofire.flutter_geofire-merged_res-15:/drawable/common_google_signin_btn_icon_light_normal.xml",
+        "source": "in.appyflow.geofire.flutter_geofire-jetified-play-services-base-16.0.1-6:/drawable/common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "in.appyflow.geofire.flutter_geofire-merged_res-15:/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "in.appyflow.geofire.flutter_geofire-jetified-play-services-base-16.0.1-6:/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "in.appyflow.geofire.flutter_geofire-merged_res-15:/drawable/common_google_signin_btn_icon_disabled.xml",
+        "source": "in.appyflow.geofire.flutter_geofire-jetified-play-services-base-16.0.1-6:/drawable/common_google_signin_btn_icon_disabled.xml"
+    }
+]

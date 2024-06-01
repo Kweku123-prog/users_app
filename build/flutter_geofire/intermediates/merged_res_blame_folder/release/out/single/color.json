@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "in.appyflow.geofire.flutter_geofire-merged_res-15:/color/common_google_signin_btn_text_light.xml",
+        "source": "in.appyflow.geofire.flutter_geofire-jetified-play-services-base-16.0.1-6:/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "in.appyflow.geofire.flutter_geofire-merged_res-15:/color/common_google_signin_btn_tint.xml",
+        "source": "in.appyflow.geofire.flutter_geofire-jetified-play-services-base-16.0.1-6:/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "in.appyflow.geofire.flutter_geofire-merged_res-15:/color/common_google_signin_btn_text_dark.xml",
+        "source": "in.appyflow.geofire.flutter_geofire-jetified-play-services-base-16.0.1-6:/color/common_google_signin_btn_text_dark.xml"
+    }
+]
